@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhhbehera&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhhbehera" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
--📫 &nbsp; How to reach me **anirudhhbehera@gmail.com**
--🤔 &nbsp; Exploring newer technologies and developing software.
--🎓 &nbsp; Studying Computer Science  & Engineering.
--💼 &nbsp; Software developer.
--🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Devlopment.
-
+- 📫 &nbsp; How to reach me **anirudhhbehera@gmail.com**
+- 🤔 &nbsp; Exploring newer technologies and developing software.
+- 🎓 &nbsp; Studying Computer Science  & Engineering.
+- 💼 &nbsp; Software developer.
+- 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Devlopment.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ | C | 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | React.js | Node.js |
 - 🐍 &nbsp; Numpy | Matplotlib | pandas
 - ☁ &nbsp;  Google Cloud Platform | Netlify | Docker
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Anaconda | Git
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
