@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhhbehera&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhhbehera" /> </p>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 - 📫 How to reach me **anirudhhbehera@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
