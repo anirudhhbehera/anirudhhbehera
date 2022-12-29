@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhhbehera&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhhbehera" /> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 📫 &nbsp; How to reach me **anirudhhbehera@gmail.com**<br>
 - 🤔 &nbsp; Exploring newer technologies and developing software.<br>
 - 🎓 &nbsp; Studying Computer Science  & Engineering.<br>
 - 💼 &nbsp; Software developer.<br>
