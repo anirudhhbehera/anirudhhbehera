@@ -9,7 +9,7 @@
 <!--- 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Devlopment.<br>-->
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Mern and Nextjs projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Web Devlopement and Services along with DSA<br><br>💬 **Ask me about:**  <br>Dsa, JavaScript, React, Nextjs, Node.js, and any software development and design questions.<br><br>⚡ **Fun fact:**  <br>I love debuging  🪲 
+🔭 **I’m currently working on:**  <br>Mern and Nextjs projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Web Development and Services along with DSA<br><br>💬 **Ask me about:**  <br>Dsa, JavaScript, React, Nextjs, Node.js, and any software development and design questions.<br><br>⚡ **Fun fact:**  <br>I love debugging  🪲 
 
 <!--<h3>🛠 Tech Stack</h3>-->
 <!--- 💻 &nbsp; Python | C++ | C  <br>-->
@@ -42,7 +42,7 @@
 [![](https://visitcount.itsvg.in/api?id=anirudhhbehera&icon=0&color=0)](https://visitcount.itsvg.in)
 
   <!--## 💰 You can help me by Donating-->
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/anirudhh) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anirudhh) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
